@@ -2,7 +2,7 @@
 
 # EDA Project : Linkedin_jobs.
 
-This project is done during SDAIA Academy bootcamp of Data Science.
+This project is done during SDAIA Academy T5 bootcamp of Data Science.
 
 
 
